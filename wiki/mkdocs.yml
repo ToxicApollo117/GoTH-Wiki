@@ -1,0 +1,12 @@
+site_name: Guardians of the Horde Incursions Wiki
+pages:
+  - Home: index.md
+  - Fittings:
+    - Fittings Overview: fittings.md
+    - Logistics: logi.md
+    - T3Cs: T3Cs.md
+    - Battleships: battleships.md
+    - Carriers: carriers.md
+    - Supers: supers.md
+    - Titans: titans.md
+theme: readthedocs
