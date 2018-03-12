@@ -4,7 +4,10 @@ pages:
   - Fittings:
     - Fittings Overview: fittings.md
     - Logistics: logi.md
-    - T3Cs: T3Cs.md
+    - T3Cs:
+      - T3C Overview: T3Cs.md
+      - Loki: loki.md
+      - Tengu: tengu.md
     - Battleships: battleships.md
     - Carriers: carriers.md
     - Supers: supers.md
