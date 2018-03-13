@@ -40,8 +40,8 @@ Tengu Offensive - Support Processor
 Tengu Propulsion - Fuel Catalyst
 
 
-Light Armor Maintenance Bot II x5
-Light Hull Maintenance Bot II x5
+Acolyte II x5
+Hornet EC-300 x5
 
 Zainou 'Gnome' Shield Management SM-703 x1
 Inherent Implants 'Squire' Capacitor Systems Operation EO-603 x1

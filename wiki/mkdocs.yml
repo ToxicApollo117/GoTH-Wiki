@@ -1,6 +1,7 @@
 site_name: Guardians of the Horde Incursions Wiki
 pages:
   - Home: index.md
+  - FCs: fcs.md
   - Fittings:
     - Fittings Overview: fittings.md
     - Logistics: logi.md
@@ -12,4 +13,5 @@ pages:
     - Carriers: carriers.md
     - Supers: supers.md
     - Titans: titans.md
+  - Contributing: contrib.md
 theme: readthedocs
