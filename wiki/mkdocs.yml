@@ -7,6 +7,7 @@ pages:
     - Logistics: logi.md
     - T3Cs:
       - T3C Overview: T3Cs.md
+      - Logi: t3logi.md
       - Loki: loki.md
       - Tengu: tengu.md
     - Battleships: battleships.md
