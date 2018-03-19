@@ -184,3 +184,86 @@ Loki Defensive - Covert Reconfiguration x1
 Mobile Depot x1
 Covert Ops Cloaking Device II
 ```
+
+### Arti Loki
+```
+[Loki, AC-Kun]
+Gyrostabilizer II
+Gyrostabilizer II
+Damage Control II
+
+Stasis Webifier II
+Caldari Navy Large Shield Extender
+Adaptive Invulnerability Field II
+Caldari Navy Large Shield Extender
+Adaptive Invulnerability Field II
+50MN Y-T8 Compact Microwarpdrive
+Small Capacitor Booster II, Navy Cap Booster 400
+
+Auto Targeting System I
+Auto Targeting System I
+720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
+720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
+720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
+720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
+720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+Medium Processor Overclocking Unit I
+
+Loki Core - Immobility Drivers
+Loki Defensive - Augmented Durability
+Loki Offensive - Projectile Scoping Array
+Loki Propulsion - Wake Limiter
+
+
+Warrior II x5
+
+Loki Propulsion - Interdiction Nullifier x1
+Loki Defensive - Covert Reconfiguration x1
+Mobile Depot x1
+Covert Ops Cloaking Device II
+```
+
+### AC Loki
+
+```
+[Loki, AC-Kun]
+Gyrostabilizer II
+Gyrostabilizer II
+Damage Control II
+
+Stasis Webifier II
+Caldari Navy Large Shield Extender
+Adaptive Invulnerability Field II
+Caldari Navy Large Shield Extender
+Adaptive Invulnerability Field II
+50MN Y-T8 Compact Microwarpdrive
+Small Capacitor Booster II, Navy Cap Booster 400
+
+Auto Targeting System I
+Auto Targeting System I
+425mm AutoCannon II, Republic Fleet EMP M
+425mm AutoCannon II, Republic Fleet EMP M
+425mm AutoCannon II, Republic Fleet EMP M
+425mm AutoCannon II, Republic Fleet EMP M
+425mm AutoCannon II, Republic Fleet EMP M
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+Medium Processor Overclocking Unit I
+
+Loki Core - Immobility Drivers
+Loki Defensive - Augmented Durability
+Loki Offensive - Projectile Scoping Array
+Loki Propulsion - Wake Limiter
+
+
+Warrior II x5
+
+Loki Propulsion - Interdiction Nullifier x1
+Loki Defensive - Covert Reconfiguration x1
+Mobile Depot x1
+Covert Ops Cloaking Device II
+```
