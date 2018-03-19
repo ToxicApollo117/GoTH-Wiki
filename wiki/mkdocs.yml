@@ -11,8 +11,12 @@ pages:
       - Loki: loki.md
       - Tengu: tengu.md
     - Battleships: battleships.md
-    - Carriers: carriers.md
-    - Supers: supers.md
-    - Titans: titans.md
+    - Capitals:
+      - Overview: capitals.md
+      - Carriers: carriers.md
+      - Dreadnoughts: dreads.md
+      - Faxes: faxes.md
+      - Supers: supers.md
+      - Titans: titans.md
   - Contributing: contrib.md
 theme: readthedocs
