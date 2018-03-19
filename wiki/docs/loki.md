@@ -142,3 +142,45 @@ Loki Defensive - Covert Reconfiguration x1
 Mobile Depot x1
 Covert Ops Cloaking Device II
 ```
+### RLML Web Loki
+
+```
+[Loki, Loki]
+Ballistic Control System II
+Damage Control II
+Ballistic Control System II
+
+Adaptive Invulnerability Field II
+Republic Fleet Large Cap Battery
+Republic Fleet Large Shield Extender
+50MN Quad LiF Restrained Microwarpdrive
+Adaptive Invulnerability Field II
+Stasis Webifier II
+Stasis Webifier II
+
+Rapid Light Missile Launcher II, Inferno Fury Light Missile
+Rapid Light Missile Launcher II, Inferno Fury Light Missile
+Rapid Light Missile Launcher II, Inferno Fury Light Missile
+Rapid Light Missile Launcher II, Inferno Fury Light Missile
+Rapid Light Missile Launcher II, Inferno Fury Light Missile
+Dual 180mm AutoCannon II, Republic Fleet EMP M
+Dual 180mm AutoCannon II, Republic Fleet EMP M
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+Loki Core - Immobility Drivers
+Loki Defensive - Augmented Durability
+Loki Offensive - Launcher Efficiency Configuration
+Loki Propulsion - Wake Limiter
+
+
+Infiltrator II x3
+Hobgoblin II x2
+
+Loki Propulsion - Interdiction Nullifier x1
+Loki Defensive - Covert Reconfiguration x1
+Mobile Depot x1
+Covert Ops Cloaking Device II
+```
