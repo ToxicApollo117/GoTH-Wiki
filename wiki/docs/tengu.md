@@ -186,3 +186,45 @@ Tengu Propulsion - Interdiction Nullifier x1
 Tengu Defensive - Covert Reconfiguration x1
 Mobile Depot x1
 ```
+
+### HAMGu
+
+```
+[Tengu, Tengu]
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Damage Control II
+
+Adaptive Invulnerability Field II
+Republic Fleet Large Shield Extender
+Adaptive Invulnerability Field II
+EM Ward Field II
+50MN Quad LiF Restrained Microwarpdrive
+Small Capacitor Booster II, Navy Cap Booster 400
+
+Heavy Assault Missile Launcher II, Caldari Navy Inferno Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Inferno Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Inferno Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Inferno Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Inferno Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Inferno Heavy Assault Missile
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+Tengu Core - Augmented Graviton Reactor
+Tengu Defensive - Supplemental Screening
+Tengu Offensive - Accelerated Ejection Bay
+Tengu Propulsion - Fuel Catalyst
+
+
+Infiltrator II x3
+Hobgoblin II x2
+
+Tengu Propulsion - Interdiction Nullifier x1
+Tengu Defensive - Covert Reconfiguration x1
+Mobile Depot x1
+Covert Ops Cloaking Device II
+```
