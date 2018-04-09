@@ -10,3 +10,5 @@ A list of fittings are included in [Fittings](fittings.md), though remember thes
 
 
 Nothing on this wiki is specifically exhaustive, but please use common sense when looking at information.
+
+Please look at [Support](support.md) for common issues and information about how the auth system works

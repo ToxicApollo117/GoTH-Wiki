@@ -42,9 +42,6 @@ Tengu Offensive - Magnetic Infusion Basin
 Tengu Propulsion - Fuel Catalyst
 
 
-Infiltrator II x3
-Hobgoblin II x2
-
 Tengu Propulsion - Interdiction Nullifier x1
 Tengu Defensive - Covert Reconfiguration x1
 Mobile Depot x1
@@ -83,9 +80,6 @@ Tengu Defensive - Supplemental Screening
 Tengu Offensive - Magnetic Infusion Basin
 Tengu Propulsion - Fuel Catalyst
 
-
-Infiltrator II x3
-Hobgoblin II x2
 
 Tengu Propulsion - Interdiction Nullifier x1
 Tengu Defensive - Covert Reconfiguration x1
@@ -126,9 +120,6 @@ Tengu Offensive - Accelerated Ejection Bay
 Tengu Propulsion - Fuel Catalyst
 
 
-Infiltrator II x3
-Hobgoblin II x2
-
 Tengu Propulsion - Interdiction Nullifier x1
 Tengu Defensive - Covert Reconfiguration x1
 Mobile Depot x1
@@ -166,9 +157,6 @@ Tengu Defensive - Supplemental Screening
 Tengu Offensive - Accelerated Ejection Bay
 Tengu Propulsion - Fuel Catalyst
 
-
-Infiltrator II x3
-Hobgoblin II x2
 
 Tengu Propulsion - Interdiction Nullifier x1
 Tengu Defensive - Covert Reconfiguration x1

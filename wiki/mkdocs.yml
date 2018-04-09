@@ -1,6 +1,7 @@
 site_name: Guardians of the Horde Incursions Wiki
 pages:
   - Home: index.md
+  - Support: support.md
   - FCs: fcs.md
   - Fittings:
     - Fittings Overview: fittings.md
