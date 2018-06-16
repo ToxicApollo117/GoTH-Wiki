@@ -138,7 +138,7 @@ Covert Ops Cloaking Device II
 
 ### Arti Loki
 ```
-[Loki, *AC-Kun]
+[Loki, Arti-Kun]
 
 Gyrostabilizer II
 Counterbalanced Compact Gyrostabilizer
@@ -159,7 +159,6 @@ Auto Targeting System I
 720mm Howitzer Artillery II, Republic Fleet EMP M
 720mm Howitzer Artillery II, Republic Fleet EMP M
 720mm Howitzer Artillery II, Republic Fleet EMP M
-Auto Targeting System I
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
