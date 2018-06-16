@@ -16,21 +16,22 @@ Ballistic Control System II
 Ballistic Control System II
 Damage Control II
 Ballistic Control System II
+Ballistic Control System II
 Missile Guidance Enhancer II
 
 Adaptive Invulnerability Field II
 Republic Fleet Large Shield Extender
 Republic Fleet Large Cap Battery
 Adaptive Invulnerability Field II
-10MN Afterburner II
+50MN Quad LiF Restrained Microwarpdrive
 
 Heavy Missile Launcher II, Caldari Navy Inferno Heavy Missile
 Heavy Missile Launcher II, Caldari Navy Inferno Heavy Missile
 Heavy Missile Launcher II, Caldari Navy Inferno Heavy Missile
 Heavy Missile Launcher II, Caldari Navy Inferno Heavy Missile
 Heavy Missile Launcher II, Caldari Navy Inferno Heavy Missile
-650mm Artillery Cannon II, Republic Fleet Titanium Sabot M
-650mm Artillery Cannon II, Republic Fleet Titanium Sabot M
+220mm Vulcan AutoCannon II, Republic Fleet EMP M
+220mm Vulcan AutoCannon II, Republic Fleet EMP M
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
@@ -137,32 +138,34 @@ Covert Ops Cloaking Device II
 
 ### Arti Loki
 ```
-[Loki, AC-Kun]
+[Loki, *AC-Kun]
+
 Gyrostabilizer II
-Gyrostabilizer II
+Counterbalanced Compact Gyrostabilizer
 Damage Control II
+Mark I Compact Power Diagnostic System
 
-Stasis Webifier II
-Caldari Navy Large Shield Extender
-Adaptive Invulnerability Field II
-Caldari Navy Large Shield Extender
-Adaptive Invulnerability Field II
 50MN Y-T8 Compact Microwarpdrive
-Small Capacitor Booster II, Navy Cap Booster 400
+Caldari Navy Large Shield Extender
+Adaptive Invulnerability Field II
+Adaptive Invulnerability Field II
+Republic Fleet Medium Cap Battery
+Caldari Navy Large Shield Extender
 
 Auto Targeting System I
 Auto Targeting System I
-720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
-720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
-720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
-720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
-720mm Howitzer Artillery II, Republic Fleet Titanium Sabot M
+720mm Howitzer Artillery II, Republic Fleet EMP M
+720mm Howitzer Artillery II, Republic Fleet EMP M
+720mm Howitzer Artillery II, Republic Fleet EMP M
+720mm Howitzer Artillery II, Republic Fleet EMP M
+720mm Howitzer Artillery II, Republic Fleet EMP M
+Auto Targeting System I
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
-Medium Processor Overclocking Unit I
+Medium Core Defense Field Extender II
 
-Loki Core - Immobility Drivers
+Loki Core - Dissolution Sequencer
 Loki Defensive - Augmented Durability
 Loki Offensive - Projectile Scoping Array
 Loki Propulsion - Wake Limiter
@@ -190,7 +193,7 @@ Adaptive Invulnerability Field II
 Caldari Navy Large Shield Extender
 Adaptive Invulnerability Field II
 50MN Y-T8 Compact Microwarpdrive
-Small Capacitor Booster II, Navy Cap Booster 400
+Thukker Large Cap Battery
 
 Auto Targeting System I
 Auto Targeting System I

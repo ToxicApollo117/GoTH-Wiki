@@ -19,7 +19,7 @@ Capacitor Power Relay II
 Republic Fleet Large Cap Battery
 Adaptive Invulnerability Field II
 Adaptive Invulnerability Field II
-10MN Monopropellant Enduring Afterburner
+50MN Quad LiF Restrained Microwarpdrive
 Republic Fleet Large Shield Extender
 
 Skirmish Command Burst II
@@ -34,10 +34,10 @@ Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
-Loki Core - Immobility Drivers
+Loki Core - Augmented Nuclear Reactor
 Loki Defensive - Augmented Durability
 Loki Offensive - Support Processor
-Loki Propulsion - Intercalated Nanofibers
+Loki Propulsion - Wake Limiter
 
 
 Acolyte II x5
@@ -69,10 +69,10 @@ Capacitor Power Relay II
 Capacitor Power Relay II
 Capacitor Power Relay II
 
-Republic Fleet Large Cap Battery
+Thukker Large Cap Battery
 Adaptive Invulnerability Field II
 Adaptive Invulnerability Field II
-10MN Monopropellant Enduring Afterburner
+50MN Quad LiF Restrained Microwarpdrive
 Pithum B-Type EM Ward Amplifier
 Republic Fleet Large Shield Extender
 

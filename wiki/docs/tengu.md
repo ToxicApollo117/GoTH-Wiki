@@ -14,14 +14,14 @@ As with all T3C fits, remember that CCP and fitting agents are bad at importing 
 [Tengu, Tengu]
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
-Power Diagnostic System II
+Reactor Control Unit II
 Damage Control II
 
 Adaptive Invulnerability Field II
 Republic Fleet Large Shield Extender
 Republic Fleet Large Cap Battery
 EM Ward Field II
-10MN Afterburner II
+50MN Quad LiF Restrained Microwarpdrive
 Adaptive Invulnerability Field II
 
 250mm Railgun II, Caldari Navy Antimatter Charge M
@@ -92,11 +92,11 @@ Mobile Depot x1
 [Tengu, Tengu]
 Ballistic Control System II
 Ballistic Control System II
-Ballistic Control System II
+Reactor Control Unit II
 Damage Control II
 
 Adaptive Invulnerability Field II
-10MN Monopropellant Enduring Afterburner
+50MN Quad LiF Restrained Microwarpdrive
 Republic Fleet Large Cap Battery
 Republic Fleet Large Shield Extender
 Adaptive Invulnerability Field II
@@ -139,7 +139,7 @@ Republic Fleet Large Shield Extender
 Adaptive Invulnerability Field II
 EM Ward Field II
 50MN Quad LiF Restrained Microwarpdrive
-Small Capacitor Booster II, Navy Cap Booster 400
+Medium Cap Battery II
 
 Heavy Assault Missile Launcher II, Caldari Navy Inferno Heavy Assault Missile
 Heavy Assault Missile Launcher II, Caldari Navy Inferno Heavy Assault Missile
