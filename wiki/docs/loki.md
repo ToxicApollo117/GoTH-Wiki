@@ -16,7 +16,6 @@ Ballistic Control System II
 Ballistic Control System II
 Damage Control II
 Ballistic Control System II
-Ballistic Control System II
 Missile Guidance Enhancer II
 
 Adaptive Invulnerability Field II
@@ -46,6 +45,8 @@ Loki Propulsion - Wake Limiter
 Infiltrator II x3
 Hobgoblin II x2
 
+Hornet EC-300 x5
+Medium Shield Maintenance Bot II x4
 Loki Propulsion - Interdiction Nullifier x1
 Loki Defensive - Covert Reconfiguration x1
 Mobile Depot x1
@@ -88,6 +89,8 @@ Loki Propulsion - Wake Limiter
 Infiltrator II x3
 Hobgoblin II x2
 
+Hornet EC-300 x5
+Medium Shield Maintenance Bot II x4
 Loki Propulsion - Interdiction Nullifier x1
 Loki Defensive - Covert Reconfiguration x1
 Mobile Depot x1
@@ -130,6 +133,8 @@ Loki Propulsion - Wake Limiter
 Infiltrator II x3
 Hobgoblin II x2
 
+Hornet EC-300 x5
+Medium Shield Maintenance Bot II x4
 Loki Propulsion - Interdiction Nullifier x1
 Loki Defensive - Covert Reconfiguration x1
 Mobile Depot x1
@@ -172,6 +177,8 @@ Loki Propulsion - Wake Limiter
 
 Warrior II x5
 
+Hornet EC-300 x5
+Light Shield Maintenance Bot II x5
 Loki Propulsion - Interdiction Nullifier x1
 Loki Defensive - Covert Reconfiguration x1
 Mobile Depot x1
@@ -214,6 +221,8 @@ Loki Propulsion - Wake Limiter
 
 Warrior II x5
 
+Hornet EC-300 x5
+Light Shield Maintenance Bot II x5
 Loki Propulsion - Interdiction Nullifier x1
 Loki Defensive - Covert Reconfiguration x1
 Mobile Depot x1

@@ -41,8 +41,9 @@ Loki Propulsion - Wake Limiter
 
 
 Acolyte II x5
-Hornet EC-300 x5
+Light Shield Maintenance Bot II x5
 
+Hornet EC-300 x5
 Zainou 'Gnome' Shield Management SM-703 x1
 Inherent Implants 'Squire' Capacitor Systems Operation EO-603 x1
 Zainou 'Gnome' Shield Emission Systems SE-803 x1
@@ -95,8 +96,9 @@ Tengu Propulsion - Fuel Catalyst
 
 
 Acolyte II x5
-Hornet EC-300 x5
+Light Shield Maintenance Bot II x5
 
+Hornet EC-300 x5
 Zainou 'Gnome' Shield Management SM-703 x1
 Inherent Implants 'Squire' Capacitor Systems Operation EO-603 x1
 Zainou 'Gnome' Shield Emission Systems SE-803 x1
