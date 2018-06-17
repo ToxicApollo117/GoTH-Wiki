@@ -34,6 +34,7 @@ The following FCs are able to run Vanguard sites or Assaults with a backseat
 
 * Martial Bob
 * Ben Akali
+* Romie Asgard/Thorindir Naari
 
 ## FCs and ships
 
